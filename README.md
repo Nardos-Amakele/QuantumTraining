@@ -7,9 +7,9 @@ Task 1: Forced Superposition and Entanglement
 
 Task 2: Entanglement Witness
 
-Task 3: Quantum Teleportation
+Task 3: Opposite measurment validation
 
-Task 4: Deutsch-Jozsa Algorithm
+Task 4: Coin flip simulation
 
 Requirements:
 Python
