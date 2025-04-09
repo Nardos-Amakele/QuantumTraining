@@ -18,9 +18,10 @@ Qiskit Library
 
 bash
 Copy
-Edit
+```
 pip install qiskit
 pip install qiskit-aer
+```
 Note:
 All tasks are implemented and tested using Google Colab.
 
